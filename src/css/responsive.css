@@ -1,0 +1,19 @@
+@media (max-width: 550px) {
+  .container {
+    width: 342px;
+    height: 347px;
+  }
+  .divisor-line {
+    width: 295px;
+  }
+  .advice-number {
+    font-size: 12px;
+  }
+  .advice {
+    font-size: 24px;
+    margin-bottom: 26px;
+  }
+  .dice-icon {
+    left: 40.5%;
+  }
+}

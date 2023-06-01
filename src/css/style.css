@@ -1,0 +1,54 @@
+body {
+  background-color: #1f2632;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 540px;
+  height: 332px;
+  background-color: #323a49;
+  text-align: center;
+  border-radius: 15px;
+  position: relative;
+}
+
+.advice-number {
+  font-weight: 800;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin: 47px 0px 24px 0px;
+  color: #52ffa8;
+}
+
+.advice {
+  font-weight: 800;
+  font-size: 28px;
+  color: #cee3e9;
+  margin: 0px 47px 40px 47px;
+}
+
+.btn-dice-icon {
+  cursor: pointer;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 44%;
+  bottom: -9.5%;
+  border: 32px solid #52ffa8;
+  border-radius: 50%;
+}
+
+.dice-icon img {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
